@@ -1,7 +1,7 @@
-﻿1. Business Model
+﻿1. Business Model: Thanh
 
-2. Design Specification
+2. Design Specification: Thảo
 
-3. Implementation
+3. Implementation: Thanh
 
-4. Maintenment Plan
+4. Maintenment Plan: Tuấn
