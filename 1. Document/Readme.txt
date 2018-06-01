@@ -1,4 +1,4 @@
-﻿1. Business Model: Thanh
+﻿1. Business Model: Thanh Tuấn Thảo
 
 2. Design Specification: Thảo
 
