@@ -1,5 +1,5 @@
 ﻿Thiết kế hệ thống gồm:
-+Overview Thảo
++Overview Thanh
 +Use Case Thanh
-+ERD Thảo
-+Sequence Thanh Tuấn
++ERD Thanh
++Sequence Thanh
